@@ -8,5 +8,10 @@
         android:id="@+id/camera_view"
         opencv:show_fps="true"
         opencv:camera_id="any"/>
+    
+    <com.example.opencv.GraphicOverlay
+        android:id="@+id/graphicOverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
 </RelativeLayout>
