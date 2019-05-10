@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">opencv</string>
+    <string name="app_name">OpenCV</string>
+    <string name="camera_permission_denied">Bu ozelligi kullanabilmek icin Kamera erişim yetkisi gereklidir</string>
 </resources>
